@@ -5,7 +5,7 @@ services:
         build: ./
         # image: louneskmt/ip2tor:latest
         ports:
-            - "3000:3000"
+            - "8332:8332"
         volumes:
             - $PWD/ip2tor:/etc/ip2tor
 
