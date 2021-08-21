@@ -1,6 +1,6 @@
 services:
   explorer-testnet:
-    port: 3000
+    port: 8332
     remote:
-      address: blabla.onion
-      port: 80
+      address: <Bitcoin Core RPC Address (Host)>.onion
+      port: 8332
