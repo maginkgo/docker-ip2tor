@@ -1,5 +1,5 @@
 services:
-  explorer-testnet:
+  umbrel-rpc:
     port: 8332
     remote:
       address: <Bitcoin Core RPC Address (Host)>.onion
